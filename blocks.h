@@ -6,6 +6,7 @@ static const Block blocks[] = {
 	{"", "memory", 30, 0}, 
 	{"", "clock", 5, 0},
 	{"", "printdate", 5, 0},
+	{"", "updatecount", 600, 0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
